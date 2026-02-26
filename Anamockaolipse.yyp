@@ -34,10 +34,12 @@
   },
   "name":"Anamockaolipse",
   "resources":[
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"objGilrfirend","path":"objects/objGilrfirend/objGilrfirend.yy",},},
+    {"id":{"name":"Objprotaganist","path":"objects/Objprotaganist/Objprotaganist.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Girlfriend","path":"sprites/Girlfriend/Girlfriend.yy",},},
     {"id":{"name":"protaganist","path":"sprites/protaganist/protaganist.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object1",
+  "%Name":"objGilrfirend",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object1",
+  "name":"objGilrfirend",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"protaganist",
-    "path":"sprites/protaganist/protaganist.yy",
+    "name":"Girlfriend",
+    "path":"sprites/Girlfriend/Girlfriend.yy",
   },
   "spriteMaskId":null,
   "visible":true,
