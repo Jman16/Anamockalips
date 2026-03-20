@@ -1,1 +1,1 @@
-draw_healthbar(x,y-40, x+100,y-20,P1health,c_black,c_red,c_green,90,true,true);
+draw_healthbar(self.x,y-40, x-200,y-20,P1health,c_black,c_red,c_green,90,true,true);

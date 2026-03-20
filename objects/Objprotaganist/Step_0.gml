@@ -19,3 +19,4 @@ if(_hor != 0 or _ver !=0)
 	  else if(sprite_index == protaganist) sprite_index = protaganist;
 	}
 	
+if (P1health <= 0 ) game_restart();
