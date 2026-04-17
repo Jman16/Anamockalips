@@ -4,8 +4,8 @@ target_x = Objprotaganist.x;
 target_y = Objprotaganist.y;
 }
 else
-{ target_x = random_range(xstart-100,xstart + 10 );
-  target_x = random_range(ystart-100,ystart + 10 );
+{ target_x = random_range(xstart-100,xstart + 100 );
+  target_x = random_range(ystart-100,ystart + 100 );
 	
 }
 
