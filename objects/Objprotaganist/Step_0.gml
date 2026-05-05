@@ -11,6 +11,8 @@ if(_hor != 0 or _ver !=0)
    else if(_ver >0) sprite_index =protaganist;
    else if(_hor >0) sprite_index =protaganist;
    else if(_hor >0) sprite_index =protaganist;
+   
+   
 	}
 	 else
 	{
@@ -21,3 +23,10 @@ if(_hor != 0 or _ver !=0)
 	}
 	
 if (P1health <= 0 ) game_restart();
+
+if (keyboard_check_pressed(vk_space))
+{
+   var _inst = instance_create_depth(x,y,depth,Obj_attack);
+   _inst.image_angle = point_direction(0,0,_hor,_ver);
+   _inst.damage*= damage;
+}
